@@ -1,0 +1,206 @@
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\MainWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\RAWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\LoginView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\RegistrathionView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\App.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets_MarkupCompile.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets_MarkupCompile.lref
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Tickets.exe.config
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\MaterialDesignColors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\MaterialDesignColors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\MainWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\RAWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\LoginView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\RegistrathionView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.g.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\App.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AddTicketView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\MyTicketsView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AddTicketView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\MyTicketsView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\EntityFramework.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\EntityFramework.SqlServer.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\EntityFramework.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\EntityFramework.SqlServer.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\ru\EntityFramework.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AccountView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AdminView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AccountView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\AdminView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\DialogWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\DialogWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\InfoWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets\Tickets\obj\Debug\Views\InfoWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\MainWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\RAWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AccountView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AddTicketView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AdminView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\DialogWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\InfoWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\LoginView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\MyTicketsView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\RegistrathionView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\App.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets_MarkupCompile.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets_MarkupCompile.lref
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Tickets.exe.config
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\EntityFramework.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\EntityFramework.SqlServer.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\MaterialDesignColors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\EntityFramework.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\EntityFramework.SqlServer.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\MaterialDesignColors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\ru\EntityFramework.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\App.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\MainWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\RAWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AccountView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AddTicketView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\AdminView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\DialogWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\InfoWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\LoginView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\MyTicketsView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Views\RegistrathionView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.g.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets — копия\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Tickets.exe.config
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\EntityFramework.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\EntityFramework.SqlServer.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\MaterialDesignColors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\EntityFramework.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\EntityFramework.SqlServer.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\MaterialDesignColors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\ru\EntityFramework.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\MainWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\RAWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AccountView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AddTicketView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AdminView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\DialogWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\InfoWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\LoginView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\MyTicketsView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\RegistrathionView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\App.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets_MarkupCompile.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets_MarkupCompile.lref
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\App.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\MainWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\RAWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AccountView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AddTicketView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\AdminView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\DialogWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\InfoWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\LoginView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\MyTicketsView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Views\RegistrathionView.baml
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.g.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Tickets курсовой\Tickets\obj\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Tickets.exe.config
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\EntityFramework.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\EntityFramework.SqlServer.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\MaterialDesignColors.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\EntityFramework.xml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\EntityFramework.SqlServer.xml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\MaterialDesignColors.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\ru\EntityFramework.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\MainWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\RAWindow.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AccountView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AddTicketView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\DialogWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\InfoWindowView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\LoginView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\MyTicketsView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\RegistrathionView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\App.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets_MarkupCompile.cache
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets_MarkupCompile.lref
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\App.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\MainWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\RAWindow.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AccountView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AddTicketView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\DialogWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\InfoWindowView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\LoginView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\MyTicketsView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\RegistrathionView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.g.resources
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.exe
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Tickets.pdb
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminSeatsView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminUsersView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminVoyagesView.g.cs
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminSeatsView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminUsersView.baml
+D:\lab\2 курс 2 семестр\ооп\Друщиц\Tickets\obj\Debug\Views\AdminVoyagesView.baml

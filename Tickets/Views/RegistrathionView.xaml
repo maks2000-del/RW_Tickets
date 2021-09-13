@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="Tickets.Views.RegistrathionView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:local="clr-namespace:Tickets.Views"
+             mc:Ignorable="d"
+             xmlns:bh="clr-namespace:Tickets.Behaviors"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             Height="450" Width="500" Background="#fff">
+    <Grid>
+        <Border Width="400" Margin="15" Background="#fff" VerticalAlignment="Center" Padding="30" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Регистрация" FontSize="30" FontWeight="Bold" Margin="0 0 0 20" HorizontalAlignment="Center"/>
+                <TextBox materialDesign:HintAssist.Hint="Имя" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="{Binding registerFirstName}"/>
+                <TextBox materialDesign:HintAssist.Hint="Email" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="{Binding registerUsername}"/>
+                <PasswordBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}">
+                    <i:Interaction.Behaviors>
+                        <bh:PasswordBehavior Password="{Binding registerPassword, Mode=TwoWay}"/>
+                    </i:Interaction.Behaviors>
+                </PasswordBox>
+                <PasswordBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}">
+                    <i:Interaction.Behaviors>
+                        <bh:PasswordBehavior Password="{Binding registerPassword_repeat, Mode=TwoWay}"/>
+                    </i:Interaction.Behaviors>
+                </PasswordBox>
+                <Button Content="Зарегистрироваться" Margin="50,20" Background="#005AB3" Command="{Binding RegisterCommand}"/>
+                <TextBlock Text="{Binding Info}" HorizontalAlignment="Center" FontSize="16" Foreground="DarkRed" VerticalAlignment="Bottom" Margin="0,0,0,20"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+    
+</UserControl>
+

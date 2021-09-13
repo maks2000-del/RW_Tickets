@@ -1,0 +1,36 @@
+﻿<Window x:Class="Tickets.Views.DialogWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tickets.Views" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="DialogWindow" Height="250" Width="400" WindowStyle="None" BorderThickness="1" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <GroupBox
+            Header="{Binding Header}"
+            Style="{DynamicResource MaterialDesignGroupBox}"
+            materialDesign:ColorZoneAssist.Mode="Custom"
+            materialDesign:ColorZoneAssist.Background="#005AB3"
+            materialDesign:ColorZoneAssist.Foreground="White"
+            Margin="16"
+            BorderThickness="0">
+                <TextBlock
+                Margin="6,6,6,6"
+                TextWrapping="Wrap"
+                Text="{Binding Message}" />
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button  Margin="0,0,30,0" Content="OK" IsDefault="True" Background="#005AB3" Click="AcceptButton_Click"/>
+                <Button  Margin="30,0,0,0" Content="Cancel" IsCancel="True" Background="#005AB3"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

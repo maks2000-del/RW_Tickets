@@ -1,0 +1,24 @@
+﻿<Window x:Class="Tickets.RAWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"   
+        xmlns:local="clr-namespace:Tickets"
+        mc:Ignorable="d"
+        Title="Tickets" Height="550" Width="600"
+        MinHeight="550" MinWidth="600" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Icon="Images\ticket.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <ContentControl Content="{Binding SelectedViewModel}" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Margin="10" Width="150" Content="Вход" Command="{Binding UpdateViewCommand}" CommandParameter="Log In" Background="#005AB3"/>
+            <Button Margin="10" Width="150" Content="Регистрация" Command="{Binding UpdateViewCommand}" CommandParameter="Sig Up" Background="#005AB3"/>
+        </StackPanel>
+    </Grid>
+</Window>
